@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+
+Sitemap: https://tsariksofia.github.io/site/sitemap.xml
